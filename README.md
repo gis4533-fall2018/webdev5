@@ -11,7 +11,7 @@ You will be publishing a service through ArcGIS Online, and then pulling it in a
 1. Take a look through the examples in this repository. Pay close attention to the different *services* and *layers* they use.
 2. Work through the tutorial in the *Fu* textbook, chapter 5 on publishing layers in ArcGIS Online (make sure you read through the introduction, starting on page 177, first).  
 
-    * [Here is a link to the data you will need for this tutorial](https://drive.google.com/open?id=1qh5gX8j5pToStkjU_CtVRYHAfAt5KF5-)
+    * [Here is a link to the data you will need for this tutorial](https://drive.google.com/open?id=1tPqPEx_tISXXcdqLlqzj8xCsEq_-GAgk)
 3. Then visit the [MN Geospatial Commons](https://gisdata.mn.gov). Search for and download a dataset of your choice.
 4. Load the dataset into ArcPro and publish it to ArcGIS Online
 
